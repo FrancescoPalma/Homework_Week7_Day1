@@ -1,0 +1,22 @@
+{
+  "name": "dom_lab",
+  "version": "1.0.0",
+  "description": "###Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrancescoPalma/Homework_Week7_Day1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrancescoPalma/Homework_Week7_Day1/issues"
+  },
+  "homepage": "https://github.com/FrancescoPalma/Homework_Week7_Day1#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
